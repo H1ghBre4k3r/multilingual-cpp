@@ -61,6 +61,9 @@
 #define kleinerGleich <=
 #define gleich ==
 #define ungleich !=
+// ? : operator
+#define dann ?
+#define sonst :
 
 #define klasse class
 #define oeffentlich public
