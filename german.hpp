@@ -73,8 +73,8 @@
 #define benutze using
 #define namensraum namespace
 
-#define gebe_aus cout
-#define lese_ein cin
+#define gebe_aus std::cout
+#define lese_ein std::cin
 #define zeilenEnde endl;
 
 #endif
