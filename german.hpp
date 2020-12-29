@@ -4,7 +4,7 @@
 #define leer void
 #define ganzZahl int
 #define kleineGanzZahl short
-#define großeGanzZahl long
+#define grosseGanzZahl long
 #define buchstabe char
 #define wahrheitswert bool
 #define einfachPraezisionGleitkommaZahl float
