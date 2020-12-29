@@ -7,7 +7,7 @@ If you want to contribute, feel free to submit a pull request for one of the fol
 
 - [x] German
 - [ ] Spanish
-- [ ] Swedish
+- [x] Swedish
 - [ ] French
 - [ ] Latin
 - [ ] Italian
