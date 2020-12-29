@@ -42,6 +42,26 @@
 #define elf 11
 #define zwölf 12
 
+#define plus +
+#define mal *
+#define minus -
+#define geteiltDurch /
+#define bitweisesUnd &
+#define bitweisesOder |
+#define bitweisesEntwederOder ^
+#define bitweiseNegation ~
+#define rechtsverschiebung >>
+#define linksverschiebung <<
+#define und &&
+#define oder ||
+#define nicht !
+#define größer >
+#define kleiner <
+#define größerGleich >=
+#define kleinerGleich <=
+#define gleich ==
+#define ungleich !=
+
 #define klasse class
 #define oeffentlich public
 #define privat private
