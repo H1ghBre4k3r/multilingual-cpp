@@ -38,6 +38,9 @@
 #define sieben 7
 #define acht 8
 #define neun 9
+#define zehn 10
+#define elf 11
+#define zwölf 12
 
 #define klasse class
 #define oeffentlich public
