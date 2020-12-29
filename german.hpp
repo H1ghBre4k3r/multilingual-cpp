@@ -13,11 +13,15 @@
 #define struktur struct
 
 #define wenn if
+#define ansonsten else
 #define solange while
 #define fuer for
 #define tue do
 #define unterscheide switch
 #define fall case
+#define SCHLUSS break
+#define WEITER continue
+#define gehe_nach goto
 
 #define haupt main
 #define sei =
@@ -39,5 +43,12 @@
 #define oeffentlich public
 #define privat private
 #define geschuetzt protected
+
+#define benutze using
+#define namensraum namespace
+
+#define gebe_aus cout
+#define lese_ein cin
+#define zeilenEnde endl;
 
 #endif
