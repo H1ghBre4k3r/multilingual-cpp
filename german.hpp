@@ -38,6 +38,32 @@
 #define sieben 7
 #define acht 8
 #define neun 9
+#define zehn 10
+#define elf 11
+#define zwölf 12
+
+#define plus +
+#define mal *
+#define minus -
+#define geteiltDurch /
+#define bitweisesUnd &
+#define bitweisesOder |
+#define bitweisesEntwederOder ^
+#define bitweiseNegation ~
+#define rechtsverschiebung >>
+#define linksverschiebung <<
+#define und &&
+#define oder ||
+#define nicht !
+#define größer >
+#define kleiner <
+#define größerGleich >=
+#define kleinerGleich <=
+#define gleich ==
+#define ungleich !=
+// ? : operator
+#define dann ?
+#define sonst :
 
 #define klasse class
 #define oeffentlich public
@@ -47,8 +73,8 @@
 #define benutze using
 #define namensraum namespace
 
-#define gebe_aus cout
-#define lese_ein cin
+#define gebe_aus std::cout
+#define lese_ein std::cin
 #define zeilenEnde endl;
 
 #endif
