@@ -6,7 +6,7 @@ This repo holds very useful CPP-Headers for programming in your mother tongue.
 If you want to contribute, feel free to submit a pull request for one of the following languages. :)
 
 - [x] German
-- [ ] Spanish
+- [x] Spanish
 - [x] Swedish
 - [ ] French
 - [ ] Latin
